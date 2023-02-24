@@ -980,7 +980,7 @@ var Products = map[string]Product{
 	},
 	"google_bigquery_data_transfer_config": {
 		APIsRequired: []APIReference{
-			{Name: "BigQueryDataTransfer API", URL: "https://console.cloud.google.com/apis/api/bigquerydatatransfer.googleapis.com/"},
+			{Name: "BigQuery Data Transfer API", URL: "https://console.cloud.google.com/apis/api/bigquerydatatransfer.googleapis.com/"},
 		},
 	},
 	"google_cloud_ids_endpoint": {
